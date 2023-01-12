@@ -19,7 +19,7 @@ cfg-if = "1.0.0"
 generic-array = "0.14.6"
 lazy_static = "1.4.0"
 libc = "0.2.127"
-mmap = { package = "mmap-fixed", version = "0.1.5" }
+mmap = { package = "mmap-fixed-fixed", version = "0.1.1" }
 region = "2.0.0"
 slice-pool = "0.4.1"
 
